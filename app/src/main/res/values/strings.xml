@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecetarioApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="crear">CREAR RECETA</string>
+    <string name="recetario">RECETARIO</string>
+    <string name="titulo">Titulo</string>
+    <string name="Ingredientes">Ingredientes</string>
+    <string name="Elaboracion">Elaboracion</string>
+    <string name="Guardar">GUARDAR</string>
+    <string name="Eliminar">ELIMINAR</string>
+    <string name="Buscar">BUSCAR</string>
+    <string name="Id">Id</string>
+</resources>
